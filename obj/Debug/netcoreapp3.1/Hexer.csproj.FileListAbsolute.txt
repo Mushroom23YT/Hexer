@@ -1,0 +1,15 @@
+C:\Users\Braswell Elijah\source\repos\Hexer\bin\Debug\netcoreapp3.1\Hexer.exe
+C:\Users\Braswell Elijah\source\repos\Hexer\bin\Debug\netcoreapp3.1\Hexer.deps.json
+C:\Users\Braswell Elijah\source\repos\Hexer\bin\Debug\netcoreapp3.1\Hexer.runtimeconfig.json
+C:\Users\Braswell Elijah\source\repos\Hexer\bin\Debug\netcoreapp3.1\Hexer.runtimeconfig.dev.json
+C:\Users\Braswell Elijah\source\repos\Hexer\bin\Debug\netcoreapp3.1\Hexer.dll
+C:\Users\Braswell Elijah\source\repos\Hexer\bin\Debug\netcoreapp3.1\Hexer.pdb
+C:\Users\Braswell Elijah\source\repos\Hexer\obj\Debug\netcoreapp3.1\Hexer.csprojAssemblyReference.cache
+C:\Users\Braswell Elijah\source\repos\Hexer\obj\Debug\netcoreapp3.1\Hexer.Form1.resources
+C:\Users\Braswell Elijah\source\repos\Hexer\obj\Debug\netcoreapp3.1\Hexer.csproj.GenerateResource.cache
+C:\Users\Braswell Elijah\source\repos\Hexer\obj\Debug\netcoreapp3.1\Hexer.AssemblyInfoInputs.cache
+C:\Users\Braswell Elijah\source\repos\Hexer\obj\Debug\netcoreapp3.1\Hexer.AssemblyInfo.cs
+C:\Users\Braswell Elijah\source\repos\Hexer\obj\Debug\netcoreapp3.1\Hexer.csproj.CoreCompileInputs.cache
+C:\Users\Braswell Elijah\source\repos\Hexer\obj\Debug\netcoreapp3.1\Hexer.dll
+C:\Users\Braswell Elijah\source\repos\Hexer\obj\Debug\netcoreapp3.1\Hexer.pdb
+C:\Users\Braswell Elijah\source\repos\Hexer\obj\Debug\netcoreapp3.1\Hexer.genruntimeconfig.cache
